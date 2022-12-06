@@ -1,0 +1,9 @@
+setup.py
+VASPsol/VASPsol.py
+VASPsol/__init__.py
+VASPsol.egg-info/PKG-INFO
+VASPsol.egg-info/SOURCES.txt
+VASPsol.egg-info/dependency_links.txt
+VASPsol.egg-info/requires.txt
+VASPsol.egg-info/top_level.txt
+custom/custom.py

@@ -1,0 +1,8 @@
+dask
+ase
+pymatgen
+seaborn
+matplotlib
+dask-jobqueue
+dask-ml
+xlrd
